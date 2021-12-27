@@ -1,0 +1,20 @@
+Script started on 2021-12-27 15:58:41-08:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="120" LINES="13"]
+bintoj@MSI:/mnt/c/Users/User$ cd desktop
+bintoj@MSI:/mnt/c/Users/User/desktop$ mkdir folder1
+bintoj@MSI:/mnt/c/Users/User/desktop$ mkdir folder2
+bintoj@MSI:/mnt/c/Users/User/desktop$ touch file1.txt
+bintoj@MSI:/mnt/c/Users/User/desktop$ touch file2.txt
+bintoj@MSI:/mnt/c/Users/User/desktop$ mv  touch file3.txt
+bintoj@MSI:/mnt/c/Users/User/desktop$ mv file1.txt folder1
+bintoj@MSI:/mnt/c/Users/User/desktop$ mv file2.txt folder2
+bintoj@MSI:/mnt/c/Users/User/desktop$ cd folder1
+bintoj@MSI:/mnt/c/Users/User/desktop/folder1$ ls
+file1.txt
+bintoj@MSI:/mnt/c/Users/User/desktop/folder1$ pwd
+/mnt/c/Users/User/desktop/folder1
+bintoj@MSI:/mnt/c/Users/User/desktop/folder1$ cd ..
+bintoj@MSI:/mnt/c/Users/User/desktop$ rm file3.txt
+bintoj@MSI:/mnt/c/Users/User/desktop$ exit
+exit
+
+Script done on 2021-12-27 16:05:20-08:00 [COMMAND_EXIT_CODE="0"]
